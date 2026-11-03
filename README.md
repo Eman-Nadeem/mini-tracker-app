@@ -159,6 +159,7 @@ Potential enhancements include:
 - Adding task priorities and due dates.
 - Searching and filtering tasks.
 - Creating a graphical user interface (GUI).
+- Add task categories for better organization.
 
 ## Project Information
 
